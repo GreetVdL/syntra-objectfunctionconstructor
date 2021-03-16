@@ -1,2 +1,2 @@
-# syntra-objectfunctionconstructor
-Syntra assignment: JavaScript object function constructor
+# Syntra assignment
+JavaScript object function constructor
